@@ -1,0 +1,35 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+a:hover {color: green;}
+a { color: magenta; text-decoration: none;}
+
+.class1 {
+  color: white;
+}
+
+#id1 {
+  background-color: magenta;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+.class2 {
+  width: 1000px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  color: green;
+}
+
+#box2 {
+  width: 800px;
+  border: 15px solid black;
+  padding: 200px;
+  margin: 50px;
+  color: green;
+}
